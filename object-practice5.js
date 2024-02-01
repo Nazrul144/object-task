@@ -18,8 +18,6 @@
 
       let value = actor[prop];
       let type = typeof value;
-      console.log(type);
-
       console.log( 'Key:', prop, '|', 'type:', type);
 
     
